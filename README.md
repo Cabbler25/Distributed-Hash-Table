@@ -17,14 +17,14 @@ Open [readme.pdf](https://github.com/Cabbler25/SimpleDHT/blob/master/readme.pdf)
 
 >Download the tools found [here.](https://github.com/Cabbler25/Distributed-Hash-Table/tree/master/Testing_Tools)
 
->Use the command python create_avd.py 5 to create testing AVD's.
+>Use the command *python create_avd.py 5* to create testing AVD's.
 
->Use the command python run_avd.py 5 to run the AVD's.
+>Use the command *python run_avd.py 5* to run the AVD's.
 
->Use the command python set_redir.py 10000 to set up their networking.
+>Use the command *python set_redir.py 10000* to set up their networking.
 
 >Ensure the app is installed on all 5 AVD's before running the grader.
 
->Use the command simpledht_grading.exe apk_file_path to run the grader. Note -h will show you options available to the grader.
+>Use the command *simpledht-grading.exe apk_file_path* to run the grader. Note -h will show you options available to the grader.
 
 
