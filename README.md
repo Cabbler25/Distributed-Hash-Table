@@ -10,7 +10,7 @@ supports insert and query operations. When running multiple instances of the app
 provider instances form a Chord ring and serve insert/query requests in a distributed
 fashion according to the Chord protocol, meaning content providers only store <key, value> pairs to its corresponding partition.
 
-Open [readme.pdf](https://github.com/Cabbler25/SimpleDHT/blob/master/readme.pdf) to view complete project specifications and instructions on how to test. Credits to Steve Ko from the University at Buffalo for python scripts and much of the content of the PDF.
+Open [readme.pdf](https://github.com/Cabbler25/SimpleDHT/blob/master/readme.pdf) to view complete project specifications and instructions on how to test. Credits to Steve Ko, Professor at the University at Buffalo, for contents of the PDF and testing scripts.
 
 **For testing/running the grader (Windows machine required)**
 >Open the project in Android Studio to generate the apk file.
