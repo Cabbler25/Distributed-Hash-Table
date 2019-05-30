@@ -10,7 +10,7 @@ supports insert and query operations. When running multiple instances of the app
 provider instances form a Chord ring and serve insert/query requests in a distributed
 fashion according to the Chord protocol.
 
-Open readme.pdf to view complete description of this project and instructions on how to test. Credits to Steve Ko from the University at Buffalo for python scripts and much of the content of the PDF. Run the following commands to create & test fixed AVDs in Android Studio.
+Open [readme.pdf](https://github.com/Cabbler25/SimpleDHT/blob/master/readme.pdf) to view complete project specifications and instructions on how to test. Credits to Steve Ko from the University at Buffalo for python scripts and much of the content of the PDF. Run the following commands to create & test fixed AVDs in Android Studio.
 ```python
 python create_avd.py 5
 python run_avd.py 5
