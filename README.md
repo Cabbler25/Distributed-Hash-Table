@@ -23,6 +23,8 @@ Open [readme.pdf](https://github.com/Cabbler25/SimpleDHT/blob/master/readme.pdf)
 
 >Use the command python set_redir.py 10000 to set up their networking.
 
+>Ensure the app is installed on all 5 AVD's before running the grader.
+
 >Use the command simpledht_grader.exe apk_file_path to run the grader. Note -h will show you options available to the grader.
 
 
