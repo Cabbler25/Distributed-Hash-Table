@@ -25,6 +25,6 @@ Open [readme.pdf](https://github.com/Cabbler25/SimpleDHT/blob/master/readme.pdf)
 
 >Ensure the app is installed on all 5 AVD's before running the grader.
 
->Use the command simpledht_grader.exe apk_file_path to run the grader. Note -h will show you options available to the grader.
+>Use the command simpledht_grading.exe apk_file_path to run the grader. Note -h will show you options available to the grader.
 
 
