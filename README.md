@@ -1,4 +1,4 @@
-# SimpleDHT
+# Distributed Hash Table
 Although the design is based on Chord, it is a simplified version of Chord; node failures are not
 handled. Therefore, there are three things this project implements:
 1) ID space partitioning/re-partitioning,
